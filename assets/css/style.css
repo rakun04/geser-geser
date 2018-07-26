@@ -47,6 +47,7 @@ Image credits: unsplash.com
     text-align: center;
     text-transform: uppercase;
     font-family: 'Fjalla One', sans-serif;
+    text-shadow: 1px;
     -webkit-transform: translate3d(-50%, -50%, 0);
     -moz-transform: translate3d(-50%, -50%, 0);
     -ms-transform: translate3d(-50%, -50%, 0);
@@ -135,43 +136,43 @@ Image credits: unsplash.com
 }
 
 .fade-carousel .slides .slide-1 {
-    background-image: url(../img/bg-01.jpg);
+    background-image: url(../img/personel.jpg);
 }
 
 .fade-carousel .slides .slide-2 {
-    background-image: url(../img/bg-01.jpg);
+    background-image: url(../img/lms-adi.jpg);
 }
 
 .fade-carousel .slides .slide-3 {
-    background-image: url(../img/bg-01.jpg);
+    background-image: url(../img/lms-smo.jpg);
 }
 
 .fade-carousel .slides .slide-4 {
-    background-image: url(../img/bg-01.jpg);
+    background-image: url(../img/KOARMABAR.jpg);
 }
 
 .fade-carousel .slides .slide-5 {
-    background-image: url(../img/bg-08.jpg);
+    background-image: url(../img/intek-lmssmo.jpg);
 }
 
 .fade-carousel .slides .slide-6 {
-    background-image: url(../img/bg-08.jpg);
+    background-image: url(../img/inteklms-adi.jpg);
 }
 
 .fade-carousel .slides .slide-7 {
-    background-image: url(../img/bg-08.jpg);
+    background-image: url(../img/intek-lmsaau.jpg);
 }
 
 .fade-carousel .slides .slide-8 {
-    background-image: url(../img/bg-07.jpg);
+    background-image: url(../img/inventory-dst.jpg);
 }
 
 .fade-carousel .slides .slide-9 {
-    background-image: url(../img/bg-10.jpg);
+    background-image: url(../img/inventory-intek.jpg);
 }
 
 .fade-carousel .slides .slide-10 {
-    background-image: url(../img/bg-07.jpg);
+    background-image: url(../img/inventory-tcb.jpg);
 }
 
 /********************************/
