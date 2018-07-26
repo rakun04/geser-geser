@@ -20,16 +20,22 @@ Image credits: unsplash.com
 }
 
 .fade-carousel .carousel-indicators>li {
-    margin: 0 2px;
+    margin: 0 9px;
     background-color: #f39c12;
     border-color: #f39c12;
     opacity: .7;
+    width: 30px;
+    height: 30px;
+    border-radius: 0%;
+    text-indent: 0%;
+    padding: 5px;
 }
 
 .fade-carousel .carousel-indicators>li.active {
-    width: 10px;
-    height: 10px;
+    width: 32px;
+    height: 32px;
     opacity: 1;
+    border-radius: 0%;
 }
 
 /********************************/
@@ -105,7 +111,7 @@ Image credits: unsplash.com
     padding: 10px 40px;
 }
 
-.btn.btn-hero{
+.btn.btn-hero {
     color: #f5f5f5;
     background-color: #1abc9c;
     border-color: #1abc9c;
@@ -113,7 +119,8 @@ Image credits: unsplash.com
     font-family: 'Fjalla One', sans-serif;
     margin: 20px auto;
 }
-.btn.btn-hero:hover, .btn.btn-hero:focus{
+
+.btn.btn-hero:hover, .btn.btn-hero:focus {
     color: #f5f5f5;
     background-color: #0f8d74;
     border-color: #0f8d74;
